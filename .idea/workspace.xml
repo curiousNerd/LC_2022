@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d52ebe13-aebf-4fdb-823d-16b841f24afc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,37 +16,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///var/folders/0r/tdqzbvl91flg82tw96tx58280000gn/T/leetcode/editor/en/[176]Second Highest Salary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" selection-end-line="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SQL/Q3_M2_NthHighestSalary_177.sql">
+        <entry file="file://$PROJECT_DIR$/SQL/Q4_M3_RankScores.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="78" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="30">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
               <folding>
-                <element signature="comment#0#5" />
+                <element signature="comment#0#7" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///var/folders/0r/tdqzbvl91flg82tw96tx58280000gn/T/leetcode/editor/en/[177]Nth Highest Salary.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///var/folders/0r/tdqzbvl91flg82tw96tx58280000gn/T/leetcode/editor/en/[175]Combine Two Tables.java">
+        <entry file="file:///var/folders/0r/tdqzbvl91flg82tw96tx58280000gn/T/leetcode/editor/en/[178]Rank Scores.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="78" selection-end-column="48" />
+              <caret selection-end-line="62" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -63,6 +50,7 @@
         <option value="$PROJECT_DIR$/SQL/Q2_M1_SecondHighestSalary_176.sql" />
         <option value="/var/folders/0r/tdqzbvl91flg82tw96tx58280000gn/T/leetcode/editor/en/[176]Second Highest Salary.java" />
         <option value="$PROJECT_DIR$/SQL/Q3_M2_NthHighestSalary_177.sql" />
+        <option value="$PROJECT_DIR$/SQL/Q4_M3_RankScores.sql" />
       </list>
     </option>
   </component>
@@ -113,7 +101,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SQL" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SQL" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,10 +177,13 @@
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Palette" order="5" />
-      <window_info active="true" anchor="right" id="leetcode" order="6" sideWeight="0.5009242" side_tool="true" visible="true" weight="0.3295129" />
+      <window_info anchor="right" id="leetcode" order="6" sideWeight="0.5009242" side_tool="true" weight="0.3295129" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SQL/q1.sql">
@@ -229,12 +226,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SQL/Q4_M3_RankScores_178.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/SQL/Q3_M2_NthHighestSalary_177.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="465">
+          <caret line="96" column="90" selection-start-line="96" selection-start-column="90" selection-end-line="96" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0r/tdqzbvl91flg82tw96tx58280000gn/T/leetcode/editor/en/[178]Rank Scores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="62" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL/Q4_M3_RankScores.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
           <folding>
-            <element signature="comment#0#5" />
+            <element signature="comment#0#7" />
           </folding>
         </state>
       </provider>
