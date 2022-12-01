@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d52ebe13-aebf-4fdb-823d-16b841f24afc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/Q4_M3_RankScores.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/Q4_M3_Rankscores_178.sql" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SQL/Q4_M3_RankScores.sql">
+        <entry file="file://$PROJECT_DIR$/SQL/Q5_M4_ConsecutiveNumbers_180.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="comment#0#7" />
               </folding>
@@ -29,10 +29,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///var/folders/0r/tdqzbvl91flg82tw96tx58280000gn/T/leetcode/editor/en/[178]Rank Scores.java">
+        <entry file="file:///var/folders/0r/tdqzbvl91flg82tw96tx58280000gn/T/leetcode/editor/en/[180]Consecutive Numbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="62" selection-end-column="48" />
+              <caret selection-end-line="52" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -51,6 +51,7 @@
         <option value="/var/folders/0r/tdqzbvl91flg82tw96tx58280000gn/T/leetcode/editor/en/[176]Second Highest Salary.java" />
         <option value="$PROJECT_DIR$/SQL/Q3_M2_NthHighestSalary_177.sql" />
         <option value="$PROJECT_DIR$/SQL/Q4_M3_RankScores.sql" />
+        <option value="$PROJECT_DIR$/SQL/Q5_M4_ConsecutiveNumbers_180.sql" />
       </list>
     </option>
   </component>
@@ -226,7 +227,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/Q4_M3_RankScores_178.sql">
+    <entry file="file://$PROJECT_DIR$/SQL/Q4_M3_Rankscores_178.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/SQL/Q3_M2_NthHighestSalary_177.sql">
@@ -243,10 +244,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/Q4_M3_RankScores.sql">
+    <entry file="file://$PROJECT_DIR$/SQL/Q4_M3_Rankscores_178.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0r/tdqzbvl91flg82tw96tx58280000gn/T/leetcode/editor/en/[180]Consecutive Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="52" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL/Q5_M4_ConsecutiveNumbers_180.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="comment#0#7" />
           </folding>
